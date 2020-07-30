@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on [Root](#)
 - 🌱 I’m currently learning [React](https://reactjs.org/)
-- 💬 Ask me about php - [laravel](http://laravel.com/), [flutter](https://flutter.dev/)
+- 💬 Ask me about php - [laravel](http://laravel.com/), [Tailwind](https://tailwindcss.com/)
 - 📫 How to reach me: [@miaababikir](https://twitter.com/miaababikir)
 - ⚡ Simplicity always wins
 
